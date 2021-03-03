@@ -1,0 +1,9 @@
+build/
+dist/
+node_modules/
+.vscode/
+packages/helpers/node_modules
+packages/pzui/node_modules
+packages/shared/node_modules
+apps/class-v2/node_modules
+apps/online-exam/node_modules
